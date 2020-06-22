@@ -1,0 +1,10 @@
+.lazy-load-wrapper {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  background-color: #f8f8f8;
+}
+
+.lazy-load {
+  vertical-align: top;
+}
